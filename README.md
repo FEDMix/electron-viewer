@@ -36,7 +36,7 @@ You can run this command locally to check the number of licensing for the instal
 See only production packages: 
 ```npx license-checker --production ```
 
-[See all option here](https://github.com/davglass/license-checker#options)
+[See all options here](https://github.com/davglass/license-checker#options)
 
 Example:
 ```shell
