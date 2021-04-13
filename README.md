@@ -2,7 +2,7 @@
 
 🚧 Example work in progress
 
-This is an example of VTK running on electron with vuejs (Nuxt).
+This is an complete JavaScript example of VTK running on electron with vuejs (Nuxt).
 
 **Adventages of this solution:**
 - Platform agnostic
