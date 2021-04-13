@@ -10,7 +10,7 @@ This is an example of VTK running on electron with vuejs (Nuxt).
 - VueJS (JavaScript)
 - VuetifyJs for layout
 - Good development experience with hot module replacement
-- No OS dependencias, just nodejs.
+- No OS dependencies, just nodejs.
 - Integration test with Jest
 
 
